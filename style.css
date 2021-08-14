@@ -7,7 +7,7 @@ body {
   
   .showcase::after {
     content: '';
-    height: 100vh;
+    height: 100%;
     width: 100%;
     background-image: url(https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/Sarahviloid.jpg);
     background-size: cover;
